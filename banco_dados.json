@@ -1,0 +1,25 @@
+{
+    "usuarios": [
+        {
+            "nome": "nana santos",
+            "data_nascimento": "13-10-1988",
+            "cpf": "12345",
+            "endereco": "lameda, 395 - buzius - araraq/sp"
+        }
+    ],
+    "contas": [
+        {
+            "agencia": "0001",
+            "numero_conta": 1,
+            "usuario": {
+                "nome": "nana santos",
+                "data_nascimento": "13-10-1988",
+                "cpf": "12345",
+                "endereco": "lameda, 395 - buzius - araraq/sp"
+            }
+        }
+    ],
+    "saldo": 100.0,
+    "extrato": "Dep\u00f3sito:\tR$ 200.00\nSaque:\t\tR$ 100.00\n",
+    "numero_saques": 1
+}
